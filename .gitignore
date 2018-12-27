@@ -23,6 +23,7 @@
 /public/assets
 /public/system
 .byebug_history
+solr/
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
